@@ -2,6 +2,8 @@
 
 **kenji-ohashi-LITALICO/kenji-ohashi-LITALICO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**kenji-obashi-LITALICO/kenji-obashi-LITALICO** は、`README.md` (このファイル) が GitHub プロファイルに表示されるため、✨ _special_ ✨ リポジトリです。
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
